@@ -12,4 +12,7 @@ Each package is hosted in its own repository, to keep the import path short and 
 
 The current list of available packages is:
 
-* [httpclient](../httpclient)
+* [httpclient](//github.com/gobs/httpclient) : A friendly HTTP client, inspired by python 'requests'
+* [jujus](//github.com/gobs/jujus) : Easy JSON encoding/decoding
+* [cmd](//github.com/gobs/cmd) : A package to write shell-like application, inspired by python cmd/cmd2
+
