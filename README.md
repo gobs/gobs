@@ -19,6 +19,6 @@ The current list of available packages is:
 
 Also here:
 
-* [readline](//github.com/gobs/readline) : A fork of [sbinet/go-readline](https://github.com/sbinet/go-readline) that supports command completion and can downgrade to simple "write prompt/read text" if no native libreadline is present.
+* [readline](//github.com/gobs/readline) : A fork of [sbinet/go-readline](https://github.com/sbinet/go-readline) with completion and Windows support
 * [simplejson](//github.com/gobs/simplejson) : A fork of [bitly/go-simplejson](https://github.com/bitly/go-simplejson)
 
