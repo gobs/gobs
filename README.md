@@ -13,7 +13,6 @@ Each package is hosted in its own repository, to keep the import path short and 
 The current list of available packages is:
 
 * [httpclient](//github.com/gobs/httpclient) : A friendly HTTP client, inspired by python 'requests'
-* [jujus](//github.com/gobs/jujus) : Easy JSON encoding/decoding
 * [cmd](//github.com/gobs/cmd) : A package to write shell-like application, inspired by python cmd/cmd2
 * [args](//github.com/gobs/args) : A simple command line argument parser
 * [pretty](//github.com/gobs/pretty) : A pretty-printer for Go data structures
