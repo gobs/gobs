@@ -17,3 +17,8 @@ The current list of available packages is:
 * [args](//github.com/gobs/args) : A simple command line argument parser
 * [pretty](//github.com/gobs/pretty) : A pretty-printer for Go data structures
 
+Also here:
+
+* [readline](//github.com/gobs/readline) : A fork of [sbinet/go-readline](https://github.com/sbinet/go-readline) that supports command completion and can downgrade to simple "write prompt/read text" if no native libreadline is present.
+* [simplejson](//github.com/gobs/simplejson) : A fork of [bitly/go-simplejson](https://github.com/bitly/go-simplejson)
+
